@@ -71,6 +71,12 @@ distintos?
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
+Link: 
+
+Conclusiones: 
+
+
+Recomendaciones: 
 
 
 bIBLIOGRAFÍA: 
