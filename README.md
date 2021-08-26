@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/84587120/130897890-f965a0bd-cbca-45c1-9c1f-1a5a43f931f2.png)
+![image](https://user-images.githubusercontent.com/84587120/130900940-f30eddf9-52c0-4653-966e-cdde3fa5ed2b.png)
 
 # Informe-del-laboratorio-7
 
