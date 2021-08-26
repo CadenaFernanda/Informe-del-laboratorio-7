@@ -21,6 +21,8 @@ OBJETIVOS ESPECIFICOS:
 
 - Familiarizarse con el uso de instrumentos de medida.
 
+-  Comprobar que la Reactancia Inductiva es directamente proporcional a la frecuencia.
+
 # 9.2 Materiales
 
 - Generador de señales
@@ -80,7 +82,7 @@ distintos?
 
 # 9.6 Conclusiones: 
 
-Los capacitores son un componente esencial en el diseño de la electrónica. A lo largo de los años se ha desarrollado una amplia gama de tipos de dispositivos con diversas características que hacen que algunas tecnologías de capacitores sean particularmente adecuadas para aplicaciones específicas. Para los diseñadores, adquirir un buen conocimiento práctico de los diversos tipos, configuraciones y especificaciones es un esfuerzo que vale la pena para asegurar la elección óptima para una aplicación determinada
+- Los capacitores son un componente esencial en el diseño de la electrónica. A lo largo de los años se ha desarrollado una amplia gama de tipos de dispositivos con diversas características que hacen que algunas tecnologías de capacitores sean particularmente adecuadas para aplicaciones específicas. Para los diseñadores, adquirir un buen conocimiento práctico de los diversos tipos, configuraciones y especificaciones es un esfuerzo que vale la pena para asegurar la elección óptima para una aplicación determinada.
 
 
 # BIBLIOGRAFÍA: 
