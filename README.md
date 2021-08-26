@@ -6,7 +6,12 @@ PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 
 ![image](https://user-images.githubusercontent.com/84427371/130898417-de85302b-1fe2-4dcd-b488-508f111b17a5.png)
 
-9.1 Objetivos
+# 9.1 Objetivos.
+
+OBJETIVO GENERAL:
+ 
+
+OBJETIVOS ESPECIFICOS:
 
 - Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
 
@@ -16,7 +21,7 @@ PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 
 - Familiarizarse con el uso de instrumentos de medida.
 
-9.2 Materiales
+# 9.2 Materiales
 
 - Generador de señales
 
@@ -32,7 +37,7 @@ PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 
 - Resistencias, bobinas y capacitores.
 
-9.3 Procedimiento
+# 9.3 Procedimiento
 
 1.- Construya en el protoboard el circuito mostrado en la Figura 1.
 
@@ -47,19 +52,19 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 ![image](https://user-images.githubusercontent.com/84427371/130898713-b36e30b9-35d9-4b92-917d-123fd2bf5732.png)
 
-2.- Construya el circuito mostrado en la Figura 2
+# 2.- Construya el circuito mostrado en la Figura 2
 
 ![image](https://user-images.githubusercontent.com/84427371/130898753-2dfb7a20-5d70-4bad-bcd2-110a234c7205.png)
 
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
-9.4 Análisis de resultados
+# 9.4 Análisis de resultados
 
 1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las
 diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
 comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
-9.5 Preguntas
+# 9.5 Preguntas
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
@@ -71,15 +76,14 @@ distintos?
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
-Link: 
+# Link: 
 
-Conclusiones: 
+# 9.6 Conclusiones: 
+
+Los capacitores son un componente esencial en el diseño de la electrónica. A lo largo de los años se ha desarrollado una amplia gama de tipos de dispositivos con diversas características que hacen que algunas tecnologías de capacitores sean particularmente adecuadas para aplicaciones específicas. Para los diseñadores, adquirir un buen conocimiento práctico de los diversos tipos, configuraciones y especificaciones es un esfuerzo que vale la pena para asegurar la elección óptima para una aplicación determinada
 
 
-Recomendaciones: 
-
-
-bIBLIOGRAFÍA: 
+# BIBLIOGRAFÍA: 
 
 *ELECTRONICA ONLINE. (s.f.). Inductor. Obtenido de ¿Qué es un Inductor Eléctrico?: https://electronicaonline.net/componentes-electronicos/inductor/
 
