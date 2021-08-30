@@ -9,7 +9,8 @@ PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 # 9.1 Objetivos.
 
 OBJETIVO GENERAL:
- 
+
+Analizar los conceptos más importantes que definen a un inductor, capacitor, y presentarlos en el uso de circuitos eléctricos.
 
 OBJETIVOS ESPECIFICOS:
 
