@@ -253,15 +253,13 @@ Al colocar dos capacitores o dos bobinas de diferente denominación en un circui
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
-*Es también común llamarles "valores medios cuadráticos" o "rms" (del inglés "root-mean-square").
+Valor eficaz, V (o Vef)
 
-*Los medidores eléctricos que se usan para tomar lecturas en los circuitos de corriente alterna "CA" miden el valor EFICAZ, o la raíz cuadrática media (RCM) de la corriente y el voltaje. Estos valores son siempre positivos y están relacionados con la amplitud de los valores sinusoidales instantáneos, a través de:
+El valor eficaz de una corriente alterna, es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia. Cuando decimos que la tensión de alimentación en un circuito es de 230 V nos estamos refiriendo a su valor eficaz.
 
-Vrcm = 0.707 x Vo
+También se conoce este valor como RMS (root mean square, raíz cuadrática media). Este valor coincide con el valor cuadrático medio (raíz cuadrada del valor medio del cuadrado de la función en un período)
 
-Ircm = 0.707 x Io
-
-Estos valores son equivalentes en corriente continua es decir tendrá el mismo comportamiento respecto a potencia suministrada en el circuito.
+![image](https://user-images.githubusercontent.com/84587120/131543687-318e4cff-05c9-4f5b-b3df-2715cff9131f.png)
 
 # Link: 
 
