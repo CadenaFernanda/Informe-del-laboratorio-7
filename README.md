@@ -241,6 +241,8 @@ El comportamiento de los capacitores en corriente alterna dependerá de las func
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
 distintos?
 
+Al colocar dos capacitores o dos bobinas de diferente denominación en un circuito, los cálculos son mas fáciles al momento de encontrar el valor del Voltaje porque podemos reducir el circuito a su mínima expresión usando el concepto de fasores, en los cuales a las impedancias y a las inductancias las convertimos en dominio fasorial y se representaría como una caja en el circuito el cual podemos reducir por el concepto de serie y paralelo.
+
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
 # Link: 
