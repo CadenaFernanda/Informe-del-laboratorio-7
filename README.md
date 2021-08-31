@@ -56,7 +56,7 @@ valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas obser
 
 Voltaje pico en la frecuencia de 0
 
-![image](https://user-images.githubusercontent.com/84427371/131423685-11050e4d-e192-4483-8783-b2c8f5d65aac.png)
+![image](https://user-images.githubusercontent.com/84587120/131440064-f428b9d0-994f-46b3-b492-5d937f087159.png)
 
 Voltaje pico en la frecuencia de 10
 
@@ -244,6 +244,16 @@ distintos?
 Al colocar dos capacitores o dos bobinas de diferente denominación en un circuito, los cálculos son mas fáciles al momento de encontrar el valor del Voltaje porque podemos reducir el circuito a su mínima expresión usando el concepto de fasores, en los cuales a las impedancias y a las inductancias las convertimos en dominio fasorial y se representaría como una caja en el circuito el cual podemos reducir por el concepto de serie y paralelo.
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+Es también común llamarles "valores medios cuadráticos" o "rms" (del inglés "root-mean-square").
+
+Los medidores eléctricos que se usan para tomar lecturas en los circuitos de corriente alterna "CA" miden el valor EFICAZ, o la raíz cuadrática media (RCM) de la corriente y el voltaje. Estos valores son siempre positivos y están relacionados con la amplitud de los valores sinusoidales instantáneos, a través de:
+
+Vrcm = 0.707 x Vo
+
+Ircm = 0.707 x Io
+
+Estos valores son equivalentes en corriente continua es decir tendrá el mismo comportamiento respecto a potencia suministrada en el circuito.
 
 # Link: 
 
