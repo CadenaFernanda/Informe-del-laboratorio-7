@@ -50,7 +50,7 @@ PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 
 ![image](https://user-images.githubusercontent.com/84427371/130898713-b36e30b9-35d9-4b92-917d-123fd2bf5732.png)
 
-![image](https://user-images.githubusercontent.com/84427371/131421701-1d832001-c41d-4b42-9170-5c618b9df7e4.png)
+![image](https://user-images.githubusercontent.com/84427371/131545982-d26c5d73-719b-46d4-bacc-94027e53c51a.png)
 
 
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
@@ -143,8 +143,7 @@ corriente en la frecuencia de 1000
 
 ![image](https://user-images.githubusercontent.com/84427371/130898753-2dfb7a20-5d70-4bad-bcd2-110a234c7205.png)
 
-![image](https://user-images.githubusercontent.com/84427371/131422897-f75e35f1-f1b0-4ec6-97b6-d6e99d41a688.png)
-
+![image](https://user-images.githubusercontent.com/84427371/131546066-d943af22-aa78-4d01-aeaf-8f0ee09c76df.png)
 
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
