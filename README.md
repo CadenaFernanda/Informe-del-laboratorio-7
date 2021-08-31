@@ -225,31 +225,37 @@ comente los resultados obtenidos tomando en cuenta las distintas frecuencias uti
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
-En corriente continua el capacitor se comporta como un circuito abierto(no permite el paso de corriente) mientras que en una bobina se comporta como un cortocircuito.
+En corriente continua el capacitor se comporta como un circuito abierto (no permite el paso de corriente) mientras que en una bobina se comporta como un cortocircuito.
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
 Bobinas AC:
 
-La bobina en corriente alterna se comporta como la resistencia se opone al flujo de la corriente, pero a diferencia de ésta, el valor de esta oposición se llama reactancia inductiva.
+*La bobina en corriente alterna se comporta como una resistencia que se opone al flujo de la corriente, el valor de esta oposición se llama reactancia inductiva.
 
-Cuando las bobinas son sometidas a corriente con frecuencia (A.C.), cumplen su función de inductancia, es decir además de poseer corriente esta también tiene la presencia de voltaje, debido al efecto de frecuencia. Las bobinas se pueden utilizar para adelantar voltaje y retrasar corriente, dependiendo de cómo se utiliza para mejorar el factor de potencia.
+*Cuando las bobinas son sometidas a corriente con frecuencia (A.C.), cumplen su función de inductancia, es decir además de poseer corriente esta también tiene la presencia de voltaje.
+
+*Las bobinas se pueden utilizar para adelantar voltaje y retrasar corriente, dependiendo de cómo se utiliza para mejorar el factor de potencia.
 
 Condensadores en AC:
 
-El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo definido. En corriente alterna el capacitor se carga y descarga según sea la frecuencia de oscilación. Los condensadores se utilizan para adelantar corriente y atrasar voltaje, dependiendo para mejorar el factor de potencia.
+*El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo definido. 
+
+*En corriente alterna el capacitor se carga y descarga según sea la frecuencia de oscilación. 
+
+*Los condensadores se utilizan para adelantar corriente y atrasar voltaje.
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
 distintos?
 
-Al colocar dos capacitores o dos bobinas de diferente denominación en un circuito, los cálculos son mas fáciles al momento de encontrar el valor del Voltaje porque podemos reducir el circuito a su mínima expresión usando el concepto de fasores, en los cuales a las impedancias y a las inductancias las convertimos en dominio fasorial y se representaría como una caja en el circuito el cual podemos reducir por el concepto de serie y paralelo.
+Al colocar dos capacitores o dos bobinas de diferente denominación en un circuito, los cálculos son mas fáciles al momento de encontrar el valor del Voltaje, porque podemos reducir el circuito a su mínima expresión usando el concepto de fasores, en los cuales a las impedancias y a las inductancias las convertimos en dominio fasorial y se representaría como una caja en el circuito el cual podemos reducir por el concepto de serie y paralelo.
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 
-Es también común llamarles "valores medios cuadráticos" o "rms" (del inglés "root-mean-square").
+*Es también común llamarles "valores medios cuadráticos" o "rms" (del inglés "root-mean-square").
 
-Los medidores eléctricos que se usan para tomar lecturas en los circuitos de corriente alterna "CA" miden el valor EFICAZ, o la raíz cuadrática media (RCM) de la corriente y el voltaje. Estos valores son siempre positivos y están relacionados con la amplitud de los valores sinusoidales instantáneos, a través de:
+*Los medidores eléctricos que se usan para tomar lecturas en los circuitos de corriente alterna "CA" miden el valor EFICAZ, o la raíz cuadrática media (RCM) de la corriente y el voltaje. Estos valores son siempre positivos y están relacionados con la amplitud de los valores sinusoidales instantáneos, a través de:
 
 Vrcm = 0.707 x Vo
 
