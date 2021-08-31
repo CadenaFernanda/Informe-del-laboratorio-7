@@ -154,7 +154,7 @@ de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 Voltaje pico y voltaje medido en el multimetro en la frecuencia de 0.
 
-![image](https://user-images.githubusercontent.com/84427371/131422866-294c9044-bbe3-42da-8d4b-ba469dc074d5.png)
+![image](https://user-images.githubusercontent.com/84587120/131438839-5fc52285-6a8e-4ea2-a663-bb4e3c51961d.png)
 
 Voltaje pico y voltaje medido en el multimetro en la frecuencia de 10.
 
@@ -226,6 +226,16 @@ comente los resultados obtenidos tomando en cuenta las distintas frecuencias uti
 En corriente continua el capacitor se comporta como un circuito abierto(no permite el paso de corriente) mientras que en una bobina se comporta como un cortocircuito.
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+Bobinas AC:
+
+La bobina en corriente alterna se comporta como la resistencia se opone al flujo de la corriente, pero a diferencia de ésta, el valor de esta oposición se llama reactancia inductiva.
+
+Cuando las bobinas son sometidas a corriente con frecuencia (A.C.), cumplen su función de inductancia, es decir además de poseer corriente esta también tiene la presencia de voltaje, debido al efecto de frecuencia. Las bobinas se pueden utilizar para adelantar voltaje y retrasar corriente, dependiendo de cómo se utiliza para mejorar el factor de potencia.
+
+Condensadores en AC:
+
+El comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo definido. En corriente alterna el capacitor se carga y descarga según sea la frecuencia de oscilación. Los condensadores se utilizan para adelantar corriente y atrasar voltaje, dependiendo para mejorar el factor de potencia.
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores
