@@ -265,6 +265,8 @@ Estos valores son equivalentes en corriente continua es decir tendrá el mismo c
 
 # Link: 
 
+https://youtu.be/7eicn0CMrJE
+
 # 9.6 Conclusiones: 
 - Mediante esta practica hemos adquirido conocimientos de la funcionalidad y comportamiento de los inductores y capacitores dentro del circuito de corriente en sus diferentes frecuencias.
 
