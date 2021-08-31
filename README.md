@@ -6,6 +6,8 @@ PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 
 ![image](https://user-images.githubusercontent.com/84427371/130898417-de85302b-1fe2-4dcd-b488-508f111b17a5.png)
 
+![image](https://user-images.githubusercontent.com/84427371/131435996-43b1bfac-f1ff-485f-b6e4-f4f43576373d.png)
+
 # 9.1 Objetivos.
 
 OBJETIVO GENERAL:
