@@ -54,7 +54,7 @@ valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas obser
 
 Voltaje pico en la frecuencia de 0
 
-![image](https://user-images.githubusercontent.com/84427371/131421755-e62eaf85-f592-4700-8b8a-629b2f284e59.png)
+![image](https://user-images.githubusercontent.com/84427371/131423685-11050e4d-e192-4483-8783-b2c8f5d65aac.png)
 
 Voltaje pico en la frecuencia de 10
 
@@ -112,7 +112,7 @@ Estas mediciones las reaclizamos en un simulador llamado DECACLAB
 
 Corriente en la frecuencia de 0
 
-![image](https://user-images.githubusercontent.com/84427371/131422436-4b2357a9-c322-4130-9acc-31c2f986c8d2.png)
+![image](https://user-images.githubusercontent.com/84427371/131423601-2d5f4a6d-6dcb-4947-8088-2cc60d6e6ace.png)
 
 corriente en la frecuencia de 10
 
