@@ -44,28 +44,178 @@ OBJETIVOS ESPECIFICOS:
 
 1.- Construya en el protoboard el circuito mostrado en la Figura 1.
 
+![image](https://user-images.githubusercontent.com/84427371/130898713-b36e30b9-35d9-4b92-917d-123fd2bf5732.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131421701-1d832001-c41d-4b42-9170-5c618b9df7e4.png)
+
+
 a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+
+Voltaje pico en la frecuencia de 0
+
+![image](https://user-images.githubusercontent.com/84427371/131421755-e62eaf85-f592-4700-8b8a-629b2f284e59.png)
+
+Voltaje pico en la frecuencia de 10
+
+![image](https://user-images.githubusercontent.com/84427371/131421799-f08e0dab-861b-4a40-b10c-d936454c7583.png)
+
+voltaje pico en la frecuencia de 50
+
+
+![image](https://user-images.githubusercontent.com/84427371/131421825-6e664aa6-5376-4787-ade8-8daea9c805c8.png)
+
+voltaje pico en la frecuencia de 100
+
+![image](https://user-images.githubusercontent.com/84427371/131421877-704c2b47-7e76-4574-9d6f-2f9e32cceb6c.png)
+
+voltaje pico en la frecuencia de 500
+
+![image](https://user-images.githubusercontent.com/84427371/131421912-f25759ce-dcc1-46b3-a90f-0703a731ecae.png)
+
+voltaje pico en la frecuencia de 1000
+
+![image](https://user-images.githubusercontent.com/84427371/131422068-a30189ed-6b1f-4842-bfd1-fdb3a4d2f1a7.png)
 
 b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
 de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
+voltaje en la frecuencia de 0
+
+![image](https://user-images.githubusercontent.com/84427371/131422087-80c2daae-de09-4ff8-97bc-8720efdb6e58.png)
+
+voltaje en la frecuencia de 10
+
+![image](https://user-images.githubusercontent.com/84427371/131422126-aed5dc9f-4438-4e0a-a036-291018e54d6a.png)
+
+voltaje en la frecuencia de 50
+
+![image](https://user-images.githubusercontent.com/84427371/131422166-446b02eb-1332-4de3-aabc-471ab3a14561.png)
+
+voltaje en la frecuencia de 100
+
+![image](https://user-images.githubusercontent.com/84427371/131422195-ce446f1e-88d5-4df2-afdc-2f4aef03ae66.png)
+
+voltaje en la frecuencia de 500
+
+![image](https://user-images.githubusercontent.com/84427371/131422226-df4a621c-5f4c-4ee5-88a8-31f03ca297f7.png)
+
+voltaje en la frecuencia de 1000
+
+![image](https://user-images.githubusercontent.com/84427371/131422269-d4bf1e72-5d77-4abd-b1c8-252ffc51f7dd.png)
+
+
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
-![image](https://user-images.githubusercontent.com/84427371/130898713-b36e30b9-35d9-4b92-917d-123fd2bf5732.png)
+Estas mediciones las reaclizamos en un simulador llamado DECACLAB
 
-# 2.- Construya el circuito mostrado en la Figura 2
+Corriente en la frecuencia de 0
+
+![image](https://user-images.githubusercontent.com/84427371/131422436-4b2357a9-c322-4130-9acc-31c2f986c8d2.png)
+
+corriente en la frecuencia de 10
+
+![image](https://user-images.githubusercontent.com/84427371/131422460-1e1dce6e-172a-4a6b-8ab9-a28a2b909dbd.png)
+
+corriente en la frecuencia de 50
+
+![image](https://user-images.githubusercontent.com/84427371/131422498-9d58fc56-807d-4e19-89c6-adb8765da7b1.png)
+
+corriente en la frecuencia de 100
+
+![image](https://user-images.githubusercontent.com/84427371/131422529-88941a8a-d72d-403e-9314-56712db95bc7.png)
+
+corriente en la frcuencia de 500
+
+![image](https://user-images.githubusercontent.com/84427371/131422547-dbd8d705-39df-4ef1-a4d1-7eecf03f2379.png)
+
+corriente en la frecuencia de 1000
+
+![image](https://user-images.githubusercontent.com/84427371/131422573-547ec43d-4491-4f05-82f1-d28d70c390f3.png)
+
+
+ 2.- Construya el circuito mostrado en la Figura 2
 
 ![image](https://user-images.githubusercontent.com/84427371/130898753-2dfb7a20-5d70-4bad-bcd2-110a234c7205.png)
 
+![image](https://user-images.githubusercontent.com/84427371/131422897-f75e35f1-f1b0-4ec6-97b6-d6e99d41a688.png)
+
+
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
+
+a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los
+valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
+de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+
+Voltaje pico y voltaje medido en el multimetro en la frecuencia de 0.
+
+![image](https://user-images.githubusercontent.com/84427371/131422866-294c9044-bbe3-42da-8d4b-ba469dc074d5.png)
+
+Voltaje pico y voltaje medido en el multimetro en la frecuencia de 10.
+
+![image](https://user-images.githubusercontent.com/84427371/131422945-0cfcafd0-5322-4279-bebe-d45f4468c914.png)
+
+Voltaje pico y voltaje medido en el multimetro en la frecuencia de 50.
+
+![image](https://user-images.githubusercontent.com/84427371/131422985-ff87c994-15bb-4b20-9aa1-1f6a2fb019e3.png)
+
+Voltaje pico y voltaje medido en el multimetro en la frecuencia de 100.
+
+![image](https://user-images.githubusercontent.com/84427371/131423013-50632bbd-bfb9-4ba3-bb56-50ba0780538a.png)
+
+Voltaje pico y voltaje medido en el multimetro en la frecuencia de 500.
+
+![image](https://user-images.githubusercontent.com/84427371/131423042-106065ed-223f-43a8-ab42-a5167d77157d.png)
+
+Voltaje pico y voltaje medido en el multimetro en la frecuencia de 1000.
+
+![image](https://user-images.githubusercontent.com/84427371/131423128-895cbc40-6142-4daa-81d9-0aa4e5a6da71.png)
+
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
+frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+Estas mediciones las reaclizamos en un simulador llamado DECACLAB
+
+corriente en la frecuencia de 0.
+
+![image](https://user-images.githubusercontent.com/84427371/131423152-5a77b118-1790-48c3-b1c5-248f3440932c.png)
+
+corriente en la frecuencia de 10.
+
+![image](https://user-images.githubusercontent.com/84427371/131423164-c2b50e8b-8747-4f9c-8454-787133f2de59.png)
+
+corriente en la frecuencia de 50.
+
+![image](https://user-images.githubusercontent.com/84427371/131423181-571df098-e916-4bab-9c59-2b405a02733f.png)
+
+corriente en la frecuencia de 100.
+
+![image](https://user-images.githubusercontent.com/84427371/131423208-a1023165-6737-42c0-b079-63a15ddf9646.png)
+
+corriente en la frecuencia de 500.
+
+![image](https://user-images.githubusercontent.com/84427371/131423245-5e20eee7-a7b7-4832-90f8-4285f5f40b3a.png)
+
+corriente en la frecuencia de 1000.
+
+![image](https://user-images.githubusercontent.com/84427371/131423272-740ec91a-37bd-4e2a-b34e-e05dfecc7e9d.png)
+
+
 
 # 9.4 Análisis de resultados
 
 1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las
 diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
 comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+
+![image](https://user-images.githubusercontent.com/84427371/131423328-f2314c47-80e8-46f9-83e7-325b6fa8cc05.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131423341-9c4bce82-518c-45b9-909b-54f6247e595c.png)
+
+
 
 # 9.5 Preguntas
 
