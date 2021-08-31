@@ -221,6 +221,8 @@ comente los resultados obtenidos tomando en cuenta las distintas frecuencias uti
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+En corriente continua el capacitor se comporta como un circuito abierto(no permite el paso de corriente) mientras que en una bobina se comporta como un cortocircuito.
+
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
