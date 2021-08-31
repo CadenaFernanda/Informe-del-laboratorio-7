@@ -236,8 +236,20 @@ distintos?
 # Link: 
 
 # 9.6 Conclusiones: 
+- Mediante esta practica hemos adquirido conocimientos de la funcionalidad y comportamiento de los inductores y capacitores dentro del circuito de corriente en sus diferentes frecuencias.
 
-- Los capacitores son un componente esencial en el diseño de la electrónica. A lo largo de los años se ha desarrollado una amplia gama de tipos de dispositivos con diversas características que hacen que algunas tecnologías de capacitores sean particularmente adecuadas para aplicaciones específicas. Para los diseñadores, adquirir un buen conocimiento práctico de los diversos tipos, configuraciones y especificaciones es un esfuerzo que vale la pena para asegurar la elección óptima para una aplicación determinada.
+- Asi mismo de manera experimental se observó como en el mismo circuito al instante de realizar cambios en la frecuencia para la fuente de energía los mismo iban variando cuando el circuito consta de capacitores se pudo observar que el valor del voltaje pico iba disminuyendo mientras que en el circuito conformado por inductores, el mismo valor pico iba aumentando, dependiendo de las frecuencias que se analizó
+
+- Los capacitores son un componente esencial en el diseño de la electrónica. A lo largo de los años se ha desarrollado una amplia gama de tipos de dispositivos con diversas características que hacen que algunas tecnologías de capacitores sean particularmente adecuadas para aplicaciones específicas.
+
+- Un elemento de un circuito que posee inductancia se llama inductor.Ésta tiene su origen totalmente en el campo magnético creado por la corriente, y el efecto que ejerce es hacer más lento el crecimiento y el colapso de la corriente y, en general, oponerse
+a su cambio.
+
+# RECOMENDACIONES
+
+-Se debe analizar las ondas observadas en el osciloscopio ya que cada una de ellas presenta una frecuencia diferente por eso tener conocimiento de la funcionalidad de los instrumentos a utilizar.
+
+-Tomar a consideración el graficar correctamente el circuito en los simuladores y transcribir correctamente los valores obtenidos  de nuestros componentes, sino no podremos tabular de manera adecuada los valores solicitdos y tendremos errores en los calculos.
 
 
 # BIBLIOGRAFÍA: 
