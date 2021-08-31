@@ -2,12 +2,6 @@
 
 # Informe-del-laboratorio-7
 
-PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
-
-![image](https://user-images.githubusercontent.com/84427371/130898417-de85302b-1fe2-4dcd-b488-508f111b17a5.png)
-
-![image](https://user-images.githubusercontent.com/84427371/131435996-43b1bfac-f1ff-485f-b6e4-f4f43576373d.png)
-
 # 9.1 Objetivos.
 
 OBJETIVO GENERAL:
@@ -25,6 +19,14 @@ OBJETIVOS ESPECIFICOS:
 - Familiarizarse con el uso de instrumentos de medida.
 
 -  Comprobar que la Reactancia Inductiva es directamente proporcional a la frecuencia.
+
+
+PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
+
+![image](https://user-images.githubusercontent.com/84427371/130898417-de85302b-1fe2-4dcd-b488-508f111b17a5.png)
+
+![image](https://user-images.githubusercontent.com/84427371/131435996-43b1bfac-f1ff-485f-b6e4-f4f43576373d.png)
+
 
 # 9.2 Materiales
 
@@ -110,7 +112,7 @@ voltaje en la frecuencia de 1000
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
-Estas mediciones las reaclizamos en un simulador llamado DECACLAB
+Estas mediciones las reaclizamos en un simulador llamado MULTISIM
 
 Corriente en la frecuencia de 0
 
